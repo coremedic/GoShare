@@ -1,6 +1,6 @@
 #include <stdint.h>
-#include "GoShare.h"
-#include "Config.h"
+#include "libgoshare.h"
+#include "config.h"
 
 int main() {
     size_t length = sizeof(Config) / sizeof(Config[0]);

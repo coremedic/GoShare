@@ -1,3 +1,5 @@
 *.so
-GoShare.h
+libgoshare.a
+libgoshare.h
 .idea/
+main
